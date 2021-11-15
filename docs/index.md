@@ -4,4 +4,4 @@ This cookbook is a collection of cooking recipes, ideas, and notes I have collec
 
 ## Table of Contents
 
-1. [Proteins](protiens/index.md)
+1. [Proteins](protiens/index)
