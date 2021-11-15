@@ -4,4 +4,8 @@ This cookbook is a collection of cooking recipes, ideas, and notes I have collec
 
 ## Table of Contents
 
-1. [Proteins](protiens/index)
+1. [Proteins](proteins/index)
+
+## Shopping Lists
+
+* [Thanksgiving](shopping-lists/thanksgiving)

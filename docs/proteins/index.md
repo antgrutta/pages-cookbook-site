@@ -1,3 +1,3 @@
-# Testing
+# Proteins
 
-1..2..3
+* [Smoked Turkey](/proteins/smoked-turkey)
