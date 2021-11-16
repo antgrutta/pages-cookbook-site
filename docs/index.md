@@ -5,6 +5,7 @@ This cookbook is a collection of cooking recipes, ideas, and notes I have collec
 ## Table of Contents
 
 1. [Proteins](proteins/index)
+2. [Sides](sides/index)
 
 ## Shopping Lists
 
