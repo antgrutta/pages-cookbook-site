@@ -1,6 +1,6 @@
 # Smoked Turkey
 
-Loosely based off the recipe [Roast Turkey with Lemon Parsley and Garlic](https://www.gordonramsay.com/gr/recipes/roast-turkey-with-lemon-parsley-and-garlic/)
+Based off the recipe [Roast Turkey with Lemon Parsley and Garlic](https://www.gordonramsay.com/gr/recipes/roast-turkey-with-lemon-parsley-and-garlic/)
 
 ## Ingredients
 
