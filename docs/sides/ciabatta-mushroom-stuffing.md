@@ -1,8 +1,8 @@
 # Ciabatta Stuffing with Chestnuts, Mushrooms and Pancetta
 
-Servings: 10-12
-Prep Time: 25 minutes
-Cook Time: 1 hour
+* Servings: 10-12
+* Prep Time: 25 minutes
+* Cook Time: 1 hour
 
 Original recipe can be found here: [Ciabatta Stuffing with Chestnuts, Mushrooms and Pancetta](https://www.foodnetwork.com/recipes/giada-de-laurentiis/ciabatta-stuffing-with-chestnuts-mushrooms-and-pancetta-recipe-1949053).  This recipe works great with gluten-free bread too!
 
