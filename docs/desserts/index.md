@@ -1,3 +1,3 @@
 # Dessert
 
-* [Cranberry Curd Tart](/dessert/cranberry-curd-tart)
+* [Cranberry Curd Tart](/desserts/cranberry-curd-tart)
