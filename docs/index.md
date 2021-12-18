@@ -6,6 +6,7 @@ This cookbook is a collection of cooking recipes, ideas, and notes I have collec
 
 1. [Proteins](proteins/index)
 2. [Sides](sides/index)
+3. [Desserts](desserts/index)
 
 ## Shopping Lists
 
