@@ -18,7 +18,6 @@
 | Fresh Rosemary       | 1 bunch   |                                                       |
 | Tomatoes             | 3         |                                                       |
 | Dry Cider            | 1 liter   | Get whatever cans you can you find                    |
-| Sweet Potatoes       | 4 pounds  | Get however many you think should work                |
 | Russet Potatoes      | 4 pounds  | Get however many you think should work                |
 | Heavy Cream          | 4 cups    |                                                       |
 | Bacon                | 1 package |                                                       |
